@@ -1,5 +1,8 @@
 
 # OriginSix
+
+Projeto feito junto com a comunidade da Rocketseat.
+
 <h1>Pagina feita da aula NLW Rocketseat projeto OriginSix</h1>
 
 ![os](https://user-images.githubusercontent.com/74004642/127776410-a34db35c-f10f-48f6-bce4-f4ad4f4774c8.png)
